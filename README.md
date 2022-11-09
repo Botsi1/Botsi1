@@ -29,9 +29,9 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 ## :pushpin: My proyects
 <h3>SPA Videogames</h3>
 <p>
-  <a><img width="30%" height="100" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224508.png"></a>
-  <a><img width="30%" height="100" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224612.png"></a>
-  <a><img width="30%" height="100" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224754.png"></a>
+  <a><img width="30%" height="150" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224508.png"></a>
+  <a><img width="30%" height="150" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224612.png"></a>
+  <a><img width="30%" height="150" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224754.png"></a>
 </p>
 
 <h3>Henry Bienes Raices</h3>
