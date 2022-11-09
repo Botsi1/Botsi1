@@ -31,7 +31,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 <p>
   <a><img width="40% height="120" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224508.png"></a>
   <a><img width="40% height="120" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224612.png"></a>
-  <a><img width="40% height="120" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224612.png"></a>
+  <a><img height="90" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224754.png"></a>
 </p>
 
 <h3>Henry Bienes Raices</h3>
