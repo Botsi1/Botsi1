@@ -36,9 +36,9 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 <h3>Henry Bienes Raices</h3>
 <p>
-  <a><img width="40%" height="220" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Henry-Bienes-Raices/Captura%20de%20pantalla%202022-11-08%20224926.png"></a>
-  <a><img width="40%" height="220" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Henry-Bienes-Raices/Captura%20de%20pantalla%202022-11-08%20225032.png"></a>
-  <a><img width="40%" height="220" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Henry-Bienes-Raices/Captura%20de%20pantalla%202022-11-08%20225339.png"></a>
+  <a><img width="50%" height="250" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Henry-Bienes-Raices/Captura%20de%20pantalla%202022-11-08%20224926.png"></a>
+  <a><img width="50%" height="250" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Henry-Bienes-Raices/Captura%20de%20pantalla%202022-11-08%20225032.png"></a>
+  <a><img width="50%" height="250" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Henry-Bienes-Raices/Captura%20de%20pantalla%202022-11-08%20225339.png"></a>
 </p> 
 &nbsp;
 
