@@ -29,16 +29,16 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 ## :pushpin: My proyects
 <h3>SPA Videogames</h3>
 <p>
-  <a><img height="70" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224508.png"></a>
-  <a><img src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224612.png"></a>
-  <a><img src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224612.png"></a>
+  <a><img height="90" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224508.png"></a>
+  <a><img height="90" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224612.png"></a>
+  <a><img height="90" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224612.png"></a>
 </p>
 
 <h3>Henry Bienes Raices</h3>
 <p>
-  <a><img src="https://github.com/Botsi1/Botsi1/blob/main/Images/Henry-Bienes-Raices/Captura%20de%20pantalla%202022-11-08%20224926.png"></a>
-  <a><img src="https://github.com/Botsi1/Botsi1/blob/main/Images/Henry-Bienes-Raices/Captura%20de%20pantalla%202022-11-08%20225032.png"></a>
-  <a><img src="https://github.com/Botsi1/Botsi1/blob/main/Images/Henry-Bienes-Raices/Captura%20de%20pantalla%202022-11-08%20225339.png"></a>
+  <a><img height="90" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Henry-Bienes-Raices/Captura%20de%20pantalla%202022-11-08%20224926.png"></a>
+  <a><img height="90" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Henry-Bienes-Raices/Captura%20de%20pantalla%202022-11-08%20225032.png"></a>
+  <a><img height="90" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Henry-Bienes-Raices/Captura%20de%20pantalla%202022-11-08%20225339.png"></a>
 </p> 
 &nbsp;
 
