@@ -16,7 +16,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img  height="100" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
+  <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img  width="10%" height="50px" src="https://github.com/Botsi1/Botsi1/blob/main/Logos/expressjs.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
@@ -29,9 +29,9 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 ## :pushpin: My proyects
 <h3>SPA Videogames</h3>
 <p>
-  <a><img width="10%" height="45" src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224508.png"></a>
+  <a><img src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224508.png"></a>
   <a><img src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224612.png"></a>
-  <a><img src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224612.png></a>
+  <a><img src="https://github.com/Botsi1/Botsi1/blob/main/Images/Videogames/Captura%20de%20pantalla%202022-11-08%20224612.png"></a>
 </p>
 
 <h3>Henry Bienes Raices</h3>
