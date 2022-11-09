@@ -3,7 +3,10 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 </h2>
 
 &nbsp;&nbsp;
-
+I am a full stack developer with knowledge in programming languages like javascript, python, libraries like react and redux.
+I am a very curious person, passionate about science and technology, eager to continue learning the branch of programming. When it comes to working in a team I adapt, I am a social and sincere person.
+I studied at the SoyHenry bootcamp where I did two projects that taught me a lot about programming: the first one was individual where I had to build a SPA (Single Page Application) where the application shows a list of videogames and you can create a videogame through a form.
+The second project was a group project and consisted of a real estate website where you can buy and rent properties by paying a part of the value of the property through the website and then you contact the seller. In this project that I did with my colleagues I was in charge of the back-end and front-end.
 
 ## :star: Languages and Tools:
 
