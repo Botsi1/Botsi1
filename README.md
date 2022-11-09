@@ -16,7 +16,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img  height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
+  <code><img  height="100" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img  width="10%" height="50px" src="https://github.com/Botsi1/Botsi1/blob/main/Logos/expressjs.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
