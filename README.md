@@ -18,6 +18,7 @@ I was in two companies, one called ixalab, where I was in charge of the design a
   <code><img width="10%" height="50px" src="https://github.com/Botsi1/Botsi1/blob/main/Logos/javascript-1.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
